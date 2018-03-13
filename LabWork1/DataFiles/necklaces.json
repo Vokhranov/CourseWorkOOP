@@ -1,0 +1,162 @@
+{
+	"necklaces": [
+		{
+			"preciousStones": [
+				{
+					"name": "Diamond",
+					"mass": 2.1,
+					"price": 10355.35,
+					"transparency": 91,
+					"priceOfCut": 530.0
+				},
+				{
+					"name": "Ruby",
+					"mass": 1.5,
+					"price": 9580.0,
+					"transparency": 75,
+					"priceOfCut": 320.0
+				}
+			],
+			"semipreciousStones": [
+				{
+					"name": "Topaz",
+					"mass": 2.2,
+					"price": 725.0,
+					"transparency": 48,
+					"strength": 6.3
+				}
+			]
+		},
+		{
+			"preciousStones": [
+				{
+					"name": "Sapphire",
+					"mass": 0.8,
+					"price": 650.0,
+					"transparency": 65,
+					"priceOfCut": 95.5
+				},
+				{
+					"name": "Sapphire",
+					"mass": 0.8,
+					"price": 642.5,
+					"transparency": 64,
+					"priceOfCut": 95.5
+				},
+				{
+					"name": "Emerald",
+					"mass": 5.5,
+					"price": 15200.0,
+					"transparency": 59,
+					"priceOfCut": 983.5
+				}
+			],
+			"semipreciousStones": [
+				{
+					"name": "Nephrite",
+					"mass": 1.9,
+					"price": 179.8,
+					"transparency": 1,
+					"strength": 5.5
+				},
+				{
+					"name": "Nephrite",
+					"mass": 1.9,
+					"price": 185.5,
+					"transparency": 0,
+					"strength": 5.9
+				},
+				{
+					"name": "Nephrite",
+					"mass": 1.9,
+					"price": 190.0,
+					"transparency": 0,
+					"strength": 5.0
+				},
+				{
+					"name": "Nephrite",
+					"mass": 1.9,
+					"price": 180.0,
+					"transparency": 3,
+					"strength": 5.4
+				}
+			]
+		},
+		{
+			"preciousStones": [
+				{
+					"name": "Diamond",
+					"mass": 2.1,
+					"price": 10355.35,
+					"transparency": 91,
+					"priceOfCut": 530.0
+				},
+				{
+					"name": "Sapphire",
+					"mass": 0.8,
+					"price": 642.5,
+					"transparency": 64,
+					"priceOfCut": 95.5
+				},
+				{
+					"name": "Ruby",
+					"mass": 1.5,
+					"price": 9580.0,
+					"transparency": 75,
+					"priceOfCut": 320.0
+				},
+				{
+					"name": "Emerald",
+					"mass": 5.5,
+					"price": 15200.0,
+					"transparency": 59,
+					"priceOfCut": 983.5
+				}
+			],
+			"semipreciousStones": [
+				{
+					"name": "Amethyst",
+					"mass": 3.4,
+					"price": 16.5,
+					"transparency": 29,
+					"strength": 4.1
+				},
+				{
+					"name": "Turquoise",
+					"mass": 4.5,
+					"price": 223.5,
+					"transparency": 0,
+					"strength": 8.7
+				},
+				{
+					"name": "Nephrite",
+					"mass": 1.9,
+					"price": 180.0,
+					"transparency": 3,
+					"strength": 5.4
+				}
+			]
+		},
+		{
+			"preciousStones": [
+				{
+					"name": "Diamond",
+					"mass": 1.1,
+					"price": 5305.0,
+					"transparency": 92,
+					"priceOfCut": 374.0
+				},
+				{
+					"name": "Diamond",
+					"mass": 1.0,
+					"price": 5100.0,
+					"transparency": 90,
+					"priceOfCut": 243.0
+				}
+			],
+			"semipreciousStones": [
+				
+			]
+		}
+	]
+}
